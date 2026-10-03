@@ -2,7 +2,7 @@
 
 **About**
 
-View and Edit  your app on [Base44.com](http://Base44.com) 
+View and Edit  your app on
 
 This project contains everything you need to run your app locally.
 
@@ -30,7 +30,7 @@ Run the app: `npm run dev`
 
 **Publish your changes**
 
-Open [Base44.com](http://Base44.com) and click on Publish.
+Open and click on Publish.
 
 **Docs & Support**
 
